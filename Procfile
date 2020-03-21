@@ -1,1 +1,1 @@
-web:gunicorn aws-blog-master.wsgi --log-file -
+web: gunicorn aws-blog-master.wsgi --log-file -
